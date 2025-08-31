@@ -1,0 +1,2 @@
+¿Por qué no se pueden asignar dos arreglos directamente? Por ejemplo, dos arreglos de enteros arr1 y arr2
+y quiero pisar la dirección a la que aputa arr1 por la de arr2
